@@ -217,12 +217,14 @@ This is **Project 01 of 72** in the [insightful-algorithms](https://github.com/i
 
 ## Author
 
-**insightful-algorithms**
-MSc Data Science · BSc Physics · London, UK
-Open to Data Scientist and ML Engineer roles (UK & Remote)
+**Ose Omokhua**
+MSc Data Science · BSc Physics 
+London, UK
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omokhua-ose)
+Open to Data Engineer & Data Scientist roles (UK and Remote)
+
 [![GitHub](https://img.shields.io/badge/GitHub-insightful--algorithms-181717?style=flat&logo=github&logoColor=white)](https://github.com/insightful-algorithms)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omokhua-ose)
 
 ---
 
