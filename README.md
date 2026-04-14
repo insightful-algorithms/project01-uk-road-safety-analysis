@@ -1,15 +1,5 @@
 # Project 01 — UK Road Safety Analysis
 
-![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-3.0-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.13-4C72B0?style=flat)
-![Status](https://img.shields.io/badge/Status-Complete-1A6B5A?style=flat)
-![DDaT](https://img.shields.io/badge/DDaT-HEO%20Level-2E4057?style=flat)
-![Era](https://img.shields.io/badge/Portfolio-Era%201%20%C2%B7%20Easy-888888?style=flat)
-
----
-
 ## Overview
 
 A full exploratory data analysis of road collision data across Great Britain using the official **STATS19 dataset** published by the UK Department for Transport (DfT). This project analyses 503,475 collisions, 920,692 vehicles and 640,522 casualties recorded between 2020 and 2024.
